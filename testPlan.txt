@@ -1,0 +1,7 @@
+Input				Output				Test case
+13,54,232,64,4			4,13,54,64,232			ordinary
+null				illegalargumentexception	null value
+3,4,3,3,4			3,3,3,4,4			matching values
+-5,3,5,2,-100			-100,-5,2,3,5			negitive values
+1,2,3,4,5			5,4,3,2,1			reverse order
+5,4,3,2,1			5,4,3,2,1			correct order
